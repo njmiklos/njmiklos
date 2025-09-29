@@ -16,7 +16,9 @@ Before that, I earned a **Master of Arts in English and American Studies** at th
 ### Beyond Tech
 Before transitioning into IT, I built strong communication and organizational skills:  
 - Taught **English and Polish** to adults in both English and German.  
-- Organized art workshops and edited a student magazine as part of the **student council**, promoting international student visibility at my university.  
+- Organized art workshops and edited a student magazine as part of the **student council**, promoting international student visibility at my university.
+### Outside of Tech  
+Beyond coding, I’m a dedicated knitter and beginner seamstress, a cat mom to two, and a serial plant propagator. I recharge through fitness and biking, and have a soft spot for books, baking, and video games.
+
 ---
-✨ With a bold career transition from English Studies to Computer Science, I bring **flexibility, curiosity, and motivation** to deepen my expertise in software engineering.  
-My interdisciplinary background makes me a **unique link between human and machine understanding of information**.
+✨ With a bold career transition from English Studies to Computer Science, I bring **flexibility, curiosity, and motivation** to deepen my expertise in software engineering.  My interdisciplinary background makes me a **unique link between human and machine understanding of information**.
