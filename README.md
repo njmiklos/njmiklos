@@ -7,6 +7,8 @@ My thesis investigated how **deep learning and foundation models** can be applie
 
 Before that, I earned a **Master of Arts in English and American Studies** at the same university.
 
+✨ With a bold career transition from English Studies to Computer Science, I bring **flexibility, curiosity, and motivation** to deepen my expertise in software engineering.  My interdisciplinary background makes me a **unique link between human and machine understanding of information**.
+
 **I’m now seeking a position in Computer Science / Software Engineering where I can apply and expand my skills.**
 
 ### Experience & Projects
@@ -19,6 +21,3 @@ Before transitioning into IT, I built strong communication and organizational sk
 - Organized art workshops and edited a student magazine as part of the **student council**, promoting international student visibility at my university.
 ### Outside of Tech  
 Beyond coding, I’m a dedicated knitter and beginner seamstress, a cat mom to two, and a serial plant propagator. I recharge through fitness and biking, and have a soft spot for books, baking, and video games.
-
----
-✨ With a bold career transition from English Studies to Computer Science, I bring **flexibility, curiosity, and motivation** to deepen my expertise in software engineering.  My interdisciplinary background makes me a **unique link between human and machine understanding of information**.
