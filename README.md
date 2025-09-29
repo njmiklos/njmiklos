@@ -5,6 +5,7 @@ Before Computer Science, I completed an **M.A. in English and American Studies**
 ### 💻 Technical Experience & Projects
 - Contributed to [speech synthesis tools](https://github.com/njmiklos/pronunciation-dictionary-utils) and developed a [graphical user interface](https://github.com/njmiklos/synthesis-gui) for a command-line application.  
 - Worked on transcription of lingustic data for a machine learning project in research on a [credible conversational pedagogical agent](https://hybrid-societies.org/en/research/d03/).  
+
 These projects extended my foundation in **C/C++** with **Python**, **Django**, **JavaScript**, **Git**, and **shell scripting**, while learning to quickly adapt to new languages and tools.
 ### 🌍 Beyond Tech
 My background includes teaching English and Polish to adults in English and German, organizing student art workshops, and editing a university magazine, all experiences that strengthened my communication, collaboration, and leadership skills.
