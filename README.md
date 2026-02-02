@@ -22,5 +22,3 @@ My background beyond technology includes:
 - proofreading academic publications.
 ### 🌱 Outside of Work
 Beyond coding, I'm a dedicated knitter and beginner seamstress, a proud cat mom to two, and a serial plant propagator. I recharge through strength training, and have a soft spot for books, baking, and video games.
-### 🔍 Looking Ahead
-**I'm actively seeking opportunities in Computer Science / Software Engineering, where I can apply my interdisciplinary background, grow my expertise, and contribute to impactful projects in AI, software development, and beyond.**
